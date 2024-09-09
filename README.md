@@ -2,6 +2,9 @@
 
 ## Hi i'm minseo 👋
 
+<h2 align="center">📚Tech Stack📚</h2> <br>
+<div align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a><br><br><br>
+
 <!--
 **leminse/leminse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
