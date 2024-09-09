@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=egg&color=FFFFCC&height=200&section=header&text=Welcome&fontSize=80&" />
+
 ## Hi i'm minseo 👋
 
 <!--
