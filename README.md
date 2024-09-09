@@ -1,4 +1,4 @@
-## Hi i'm minse 👋
+## Hi i'm minseo 👋
 
 <!--
 **leminse/leminse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
