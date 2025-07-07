@@ -36,14 +36,6 @@
 
 ### 🔧 만들고 있어요
 
-| TimeMate                                                                                   | VelvetCine                                                                                   |
-|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| [기획서 링크](https://docs.google.com/document/d/1MqWJ0uhrMTwNxxx7NCYhWk0PeDK1u2fjVSV6Uh2NMxQ/edit?usp=sharing)    | [기획서 링크](https://docs.google.com/document/d/1mbQrQdZmQ0Io4Ko_p4Wn4-oGE2ztPFbFwRmi-ma8SH8/edit?usp=sharing)    |
-| [디자인 링크](https://www.figma.com/design/wj4jIGTmmUkufUvA8T7PNE/Time-Mate?node-id=0-1&t=qx90p2lb20p6ogLn-1)    | [디자인 링크](https://www.figma.com/design/12lnKVJEqWZT2Bl3WUITcI/VelvetCine?node-id=0-1&t=nmV51sc9tsMPb4KX-1)    |
-| [레포지토리 링크](https://github.com/leminse/TimeMate)                                    | [레포지토리 링크](https://github.com/leminse/VelvetCine)                                    |
-
-### 🔧 만들고 있어요
-
 **TimeMate**  
 [![Google Docs 기획서](https://img.shields.io/badge/Google%20Docs-4285F4?style=flat-square&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1MqWJ0uhrMTwNxxx7NCYhWk0PeDK1u2fjVSV6Uh2NMxQ/edit?usp=sharing)  
 [![Figma 디자인](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/wj4jIGTmmUkufUvA8T7PNE/Time-Mate?node-id=0-1&t=qx90p2lb20p6ogLn-1)  
@@ -53,8 +45,6 @@
 [![Google Docs 기획서](https://img.shields.io/badge/Google%20Docs-4285F4?style=flat-square&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1mbQrQdZmQ0Io4Ko_p4Wn4-oGE2ztPFbFwRmi-ma8SH8/edit?usp=sharing)  
 [![Figma 디자인](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/12lnKVJEqWZT2Bl3WUITcI/VelvetCine?node-id=0-1&t=nmV51sc9tsMPb4KX-1)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/leminse/VelvetCine)
-
-
 
 ---
 
